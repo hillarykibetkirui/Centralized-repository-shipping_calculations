@@ -1,5 +1,4 @@
-# Here is a new update by hillarykibetkirui
-# Here is another update by hillarykibetkirui
+ # Here is a new update by hillarykibetkirui
 
 # Shipping Cost Calculator
 
